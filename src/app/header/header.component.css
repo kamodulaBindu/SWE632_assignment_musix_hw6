@@ -1,0 +1,56 @@
+.mat-toolbar-row{
+    height: 90px !important;
+}
+.example-icon {
+    padding: 0 14px;
+    color: aliceblue;
+    position: relative;
+    float: right;
+}
+
+.home{
+    color: white !important;
+}
+.row{
+    padding-top: 40px;
+}
+
+.search{
+    color: aliceblue;
+    position: relative;
+    
+}
+.header{
+    color: aliceblue;
+    font-size: 20px;
+    text-align: center;
+
+}
+.mat-option{
+    margin: 1px;
+    line-height: normal;
+}
+.spacer {
+    flex: 1 1 auto;
+}
+
+.spacer1 {
+    flex: 0.06 0.06 auto;
+}
+
+#logo{
+    padding-top: 20px;
+    height: 90px;
+    align-content: center;
+}
+
+.headerbg{
+    position:fixed;
+    background-color:rgb(37, 38, 39);  
+    top: 0; 
+    z-index: 999;    
+}
+
+.material-icons{
+    margin-top: -30px;
+}
